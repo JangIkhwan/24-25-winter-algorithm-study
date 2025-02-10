@@ -1,6 +1,5 @@
 package week02;
 
-
 /*
 *   BOJ7795 - 먹을 것인가 먹힐 것인가
 *   주제 - 뭐죠?
@@ -10,6 +9,7 @@ package week02;
 *       A의 크기가 B보다 큰 쌍이 몇 개인지 구한다.
 *       이때 효율을 위해 A는 제일 큰 것부터 B는 작은 것부터 비교하게 했다.
 */
+
 import java.io.*;
 import java.util.*;
 

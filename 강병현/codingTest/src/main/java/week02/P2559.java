@@ -8,6 +8,7 @@ package week02;
  *      입력을 받은 후 K 값에 따라 구간합을 구한 다음 최댓값을 구한다.
  *      for문 종료 조건을 N-K까지 해서 인덱스 범위를 넘어서지 않게 했다.
  * */
+
 import java.io.*;
 import java.util.*;
 
